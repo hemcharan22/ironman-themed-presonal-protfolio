@@ -38,15 +38,15 @@ module.exports = {
       url: '/#projects',
     },
     {
-      name: 'Contact',
-      url: '/#contact',
-    },
-    {
       name: 'articles',
       url: '/#contact',
     },
     {
       name: 'case studies',
+      url: '/#contact',
+    },
+    {
+      name: 'Contact',
       url: '/#contact',
     },
   ],
