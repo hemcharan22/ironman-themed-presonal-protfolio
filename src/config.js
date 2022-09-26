@@ -41,6 +41,14 @@ module.exports = {
       name: 'Contact',
       url: '/#contact',
     },
+    {
+      name: 'articles',
+      url: '/#contact',
+    },
+    {
+      name: 'case studies',
+      url: '/#contact',
+    },
   ],
 
   colors: {
