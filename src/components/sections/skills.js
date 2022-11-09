@@ -285,16 +285,16 @@ const Skills = () => {
                     aria-hidden={activeTabId !== i}
                     hidden={activeTabId !== i}>
                     <h3>
-                      <span>{title}</span>
-                      <span className="company">
+                      {/* <span>{title}</span> */}
+                      {/* <span className="company">
                         &nbsp;@&nbsp;
                         <a href={url} className="inline-link">
                           {company}
                         </a>
-                      </span>
+                      </span> */}
                     </h3>
 
-                    <p className="range">{range}</p>
+                    {/* <p className="range">{range}</p> */}
 
                     <div dangerouslySetInnerHTML={{ __html: html }} />
                   </StyledTabPanel>
